@@ -113,7 +113,7 @@ export const datas = [
 	},
 	{
 		date: "Sun Apr 23 2023",
-		word: "fecir",
+		word: "zafer",
 	},
 	{
 		date: "Mon Apr 24 2023",
