@@ -1,7 +1,4 @@
-const whitelist = [
-	"http://localhost:3000",
-	"https://wordle-clone-2-hazel.vercel.app/",
-];
+const whitelist = ["https://wordle-clone-2-hazel.vercel.app/"];
 export const corsOptions = {
 	origin: function (origin, callback) {
 		if (whitelist.indexOf(origin) !== -1) {
